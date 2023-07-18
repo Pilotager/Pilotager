@@ -17,3 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pilotager&show_icons=true&locale=en" alt="pilotager" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pilotager&" alt="pilotager" /></p>
+
+<img alt="" src="https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&weeks=30&theme=green" />
